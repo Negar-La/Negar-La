@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Negar Lashgari</h1>
 <h3 align="center">A full-stack (MERN) developer from Montreal, Canada</h3>
 
-- 🏆 I recently graduated from **Concordia University's Web Developement Bootcamp.**
+- 🏆 I recently graduated from **Concordia University's Web Development Bootcamp.**
 
 - 🔭 I’m currently working on [My Online Library](https://github.com/Negar-La/Final-project)
 
