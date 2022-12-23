@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Negar Lashgari</h1>
+<h1 align="center">👋 Hi, I'm Negar</h1>
 <h3 align="center">A full-stack (MERN) developer from Montreal, Canada</h3>
 
 - 🏆 I recently graduated from **Concordia University's Web Development Bootcamp.**
@@ -18,6 +18,5 @@
 <a href="https://discord.gg/#2953" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#2953" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=negarla&show_icons=true&locale=en&layout=compact" alt="negarLashgari" /></p>
 
 **Thank you for looking at my GitHub profile!**
