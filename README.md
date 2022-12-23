@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on [My Online Library](https://github.com/Negar-La/Final-project)
 
-- 🌱 I’m currently learning **Python** and **CI/CD**.
-
-- 📔 I’m currently reading **The Structure of Scientific Revolutions by Thomas S. Kuhn.**
+- 🌱 I’m currently improving my knowledge in **React**.
 
 - 📫 How to reach me **negar.lashgari@gmail.com**
 
