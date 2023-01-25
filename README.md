@@ -8,7 +8,7 @@
 - 🌱 I’m currently improving my knowledge in **React**.
 
 - 📫 How to reach me: **negar.lashgari@gmail.com**
-- 
+
 - 📔 I’m currently reading: **101 Essays that will change the way you think** by  Brianna Wiest
 
 <h3 align="center">Languages and Tools:</h3>
