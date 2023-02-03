@@ -19,4 +19,7 @@
 </p>
 
 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Negar-La&show_icons=true&locale=en" alt="Negar-La" /></p>
+
 **Thank you for looking at my GitHub profile!**
