@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [FIND YOUR FOOD](https://github.com/Negar-La/Find-your-Food)
 
-- 🌱 I’m learning **TypeScript**.
+- 🌱 I’m learning **Java**.
 
 - 📫 How to reach me: **negar.lashgari@gmail.com**
 
