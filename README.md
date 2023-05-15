@@ -21,8 +21,8 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Negar-La&show_icons=true&locale=en&layout=compact" alt="Negar-La" /></p>
+<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Negar-La&show_icons=true&locale=en&layout=compact" alt="Negar-La" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Negar-La&show_icons=true&locale=en" alt="Negar-La" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Negar-La&show_icons=true&locale=en" alt="Negar-La" /></p>
 
 **Thank you for looking at my GitHub profile!**
