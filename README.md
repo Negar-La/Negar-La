@@ -3,7 +3,7 @@
 
 - 🏆 I recently graduated from **Concordia University's Web Development Bootcamp.**
 
-- 🔭 I’m currently working on [FIND YOUR FOOD](https://github.com/Negar-La/Find-your-Food)
+- 🔭 I’m currently working on different Java applications.
 
 - 🌱 I’m learning **Java**.
 
