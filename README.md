@@ -31,7 +31,7 @@
    </a>  
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="java" width="50" height="50"/>
-  </a> 
+  </a>    
   </p>
 
 <h3 align="center">Connect with me:</h3>
