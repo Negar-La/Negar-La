@@ -3,13 +3,13 @@
 
 - 🏆 I recently graduated from **Concordia University's Web Development Bootcamp.**
 
-- 🔭 I’m currently working on different Java applications.
+- 🔭 I'm currently working on building, fixing, and improving projects while honing my skills.
 
-- 🌱 I’m learning **Java**.
+- 🌱 I’m learning **Tailwind CSS**.
 
 - 📫 How to reach me: **negar.lashgari@gmail.com**
 
-- 📔 I’m currently reading: **101 Essays That Will Change The Way You Think** by Brianna Wiest.
+- 📔 I’m currently reading: **A Fraction of the Whole** by Steve Toltz.
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
