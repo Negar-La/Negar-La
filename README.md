@@ -1,7 +1,9 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Negar</h1>
 <h3 align="center">A full-stack (MERN) developer from Montreal, Canada</h3>
 
-- 🏆 I recently graduated from **Concordia University's Web Development Bootcamp.**
+- 🏆 I recently graduated from **Concordia University's Web Development Bootcamp**
+
+- 🏆 I completed **extensive training in Java Software Development** from Wiley-Edge.
 
 - 🔭 I'm currently working on building, fixing, and improving projects while honing my skills.
 
