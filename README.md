@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently working on building, fixing, and improving projects while honing my skills.
 
-- 🌱 I’m learning **Tailwind CSS**.
+- 🌱 I’m learning **Tailwind CSS** and **Figma**.
 
 - 📫 How to reach me: **negar.lashgari@gmail.com**
 
