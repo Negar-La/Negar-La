@@ -37,10 +37,10 @@
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" alt="MySQL" width="50" height="50"/>
   </a>
-
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwindcss" width="50" height="50"/>
-</a>
-
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwindcss" width="50" height="50"/>
+  </a>
+  <a href="https://figma.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="50" height="50"/>
+  </a>
   </p>
 
 <h3 align="center">Connect with me:</h3>
