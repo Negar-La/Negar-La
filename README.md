@@ -5,13 +5,13 @@
 
 - 🏆 I completed **extensive training in Java Software Development** from Wiley-Edge.
 
-- 🔭 I'm currently working on building, fixing, and improving projects while honing my skills.
+- 🔭 I'm currently working on a React + Spring Boot Web Application.
 
-- 🌱 I’m learning **Tailwind CSS** and **Figma**.
+- 🌱 I'm revisiting **Java** and sharpening my **React** skills.
 
 - 📫 How to reach me: **negar.lashgari@gmail.com**
 
-- 📔 I’m currently reading: **A Fraction of the Whole** by Steve Toltz.
+- 📔 I’m currently reading: **The art of the good life: 52 surprising shortcuts to happiness, wealth and success** by Rolf Dobelli.
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
