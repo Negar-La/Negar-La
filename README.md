@@ -5,7 +5,7 @@
 
 - 🏆 I completed **extensive training in Java Software Development** from Wiley-Edge.
 
-- 🔭 I'm currently working on a React + Spring Boot Web Application.
+- 🔭 I'm currently working as a volunteer full stack developer in [Women IT Teleworkers](https://wittjobs.ca/).
 
 - 🌱 I'm revisiting **Java** and sharpening my **React** skills.
 
